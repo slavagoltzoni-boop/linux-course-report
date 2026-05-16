@@ -1,6 +1,0 @@
-проверка 
-[Условие 1.3.1](../screenshots/1.%20Введение/1.3%20Осваиваем%20Linux/1%20задание/1.3.1.png)
-https://github.com/slavagoltzoni-boop/linux-course-report/blob/main/screenshots/1.%20Введение/1.1%20Общая%20информация%20о%20курсе/1%20задание/1.1.1.png
-![Условие 1.3.1](../screenshots/1.%20Введение/1.3%20Осваиваем%20Linux/1%20задание/1.3.1.png)
-![Условие 1.3.1](https://raw.githubusercontent.com/slavagoltzoni-boop/linux-course-report/main/screenshots/1.%20Введение/1.3%20Осваиваем%20Linux/1%20задание/1.3.1.png)
-https://github.com/slavagoltzoni-boop/linux-course-report/blob/main/screenshots/1.%20Введение/1.3%20Осваиваем%20Linux/1%20задание/1.3.1.png
